@@ -27,7 +27,7 @@ class LL:
             print(curr.value, end=" ")
             curr = curr.next
         print()
-        print( self.lenght)
+        print(self.lenght)
 
     def prepend(self, value):
         new_node = Node(value)
