@@ -47,7 +47,7 @@ def move_zeros(arr):
     print(arr)
 move_zeros(arr)
 
-# i can't understand this sum
+# i cant understand this sum
 def two_sum(arr, target):
     num_to_index = {}
     for i, num in enumerate(arr):
